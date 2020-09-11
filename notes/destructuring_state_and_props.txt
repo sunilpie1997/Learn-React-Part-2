@@ -1,0 +1,4 @@
+    Destructuring state and props
+
+        ->  for code readablity
+        ->  ex:Greet.js and Welcome.js

@@ -1,0 +1,17 @@
+    Passing method as Props
+
+        ->  Suppose you want to invoke method of parent Component when button in
+            child component is clicked.
+
+            Then you need to pass that method as 'Props' to child component 
+
+        ->  ex: 'greetHandler()' in 'ParentComponent' is executed when
+            button in 'ChildComponent' is clicked.
+
+
+    
+    Passing parameters to above method
+
+        ->  use arrow function.Pass the parameters and call method using Props with parameters.
+
+        ->  ex:'greetHandlerWithParam()' in 'ParentComponent'

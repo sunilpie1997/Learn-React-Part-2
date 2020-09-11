@@ -4,18 +4,29 @@ import Greet from './components/Greet';
 import Welcome from './components/Welcome';
 import FunctionClick from './components/FunctionClick';
 import BindEventHandler from './components/BindEventHandler';
+import ParentComponent from './components/ParentComponent';
 
 
 function App() {
   return (
     
-    /* Binding Event Handler  */
+
+    /* passing method as props to child component from parent component */
+
+    <div className="App">
+
+        <ParentComponent/>
+    </div>
+
+
+    /* Binding Event Handler  
 
     <div className="App">
 
       <BindEventHandler/>
 
     </div>
+    */
 
     /* event handling 
 

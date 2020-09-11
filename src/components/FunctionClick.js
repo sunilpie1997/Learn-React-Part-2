@@ -11,7 +11,7 @@ const FunctionClick=(props)=>
 
     return (
 
-       <button onClick={clickHandler()}>Click me</button>
+       <button onClick={clickHandler}>Click me</button>
 
 );
 

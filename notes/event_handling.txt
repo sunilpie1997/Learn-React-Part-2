@@ -1,0 +1,7 @@
+    Event handling
+
+        ->  DON'T USE <button onClick={clickHandler()}></button>
+
+        ->  INSTEAD USE <button onClick={clickHandler}></buttton>
+
+        ->  similar for class and functional components

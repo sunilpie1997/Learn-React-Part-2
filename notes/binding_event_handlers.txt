@@ -1,0 +1,22 @@
+    Binding event Handlers
+
+        ->  there are four ways
+            
+            ->  Binding in render() method
+                
+                ->  DONT'USE FOR PERFORMANCE REASONS
+
+
+
+            ->  Binding in render() method through arrow function
+                
+                ->  DON'T USE FOR PERFORMANCE REASONS
+
+            ->  Binding in class constructor method
+
+                ->  RECOMMENDED AS PER REACT docs
+
+
+            ->  Binding in arrow function property
+
+                ->  RECOMMENDED 

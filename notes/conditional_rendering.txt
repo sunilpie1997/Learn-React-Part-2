@@ -1,0 +1,11 @@
+    Conditional Rendering
+
+        ->  if/else (BASIC)
+
+        ->  element variables
+
+        ->  ternary conditional operator
+
+        ->  short circuit operator
+
+            ->  FOR ONLY SPECIFIC CASES WHERE YOU RENDER SOMETHING OR NOTHING

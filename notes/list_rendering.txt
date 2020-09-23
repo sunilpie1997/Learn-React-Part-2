@@ -1,0 +1,15 @@
+    List Rendering
+
+        ->  using javascript's 'map()' methos.
+
+        ->  Optional:
+            If each iterable is a object, create another component that 
+            receives each iterable as 'props' and prints the required properies.
+
+            ex:Person.js 
+
+            SEPERATION OF CONCERN
+
+            ->  This method throws an error:
+
+                Each child in a list should have a unique "key" prop.

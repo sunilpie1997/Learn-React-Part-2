@@ -6,17 +6,25 @@ import FunctionClick from './components/FunctionClick';
 import BindEventHandler from './components/BindEventHandler';
 import ParentComponent from './components/ParentComponent';
 import ConditionalRender from './components/ConditionalRender';
+import ListRender from './components/ListRender';
 
 
 function App() {
   return (
     
+    /*  list rendering  */
+    <div>
 
-    /* Conditional rendering */
+    <ListRender/>
+
+    </div>
+
+    /* Conditional rendering 
     <div className="App">
         <ConditionalRender/>
 
     </div>
+    */
 
     /* passing method as props to child component from parent component 
 

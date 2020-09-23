@@ -1,0 +1,10 @@
+    List and Keys
+
+        ->  A 'key' is a special string attribute you need to 
+            include when creating lists of elements.
+
+        ->  Keys give elements stable identity
+
+        ->  Keys help React identify which items are changed,added or are removed.
+
+        ->  Helps in efficient update of User Interface

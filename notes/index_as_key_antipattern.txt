@@ -1,0 +1,11 @@
+when to use index as a key?
+
+->  when list does not have a unique id
+
+->  when it is a static list (not gonna change)
+
+->  list will never be reordered or filtered
+
+
+    When all above conditions get satisfied, you can use 'index' as 'key'
+    ex: IndexAsKey.js

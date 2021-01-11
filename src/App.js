@@ -7,6 +7,7 @@ import BindEventHandler from './components/BindEventHandler';
 import ParentComponent from './components/ParentComponent';
 import ConditionalRender from './components/ConditionalRender';
 import ListRender from './components/ListRender';
+import IndexAsKey from './components/IndexAsKey';
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
     <div>
 
     <ListRender/>
+    <IndexAsKey/>
 
     </div>
 
